@@ -1,0 +1,84 @@
+body{
+    background-color: #d9d9d9;
+
+}
+h1{
+    text-align: right;
+    font-family: 'Inter', sans-serif;
+
+
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+
+
+}
+
+h5{
+    font-family: 'Questrial', sans-serif;
+    text-align: right;
+
+}
+h3{
+    font-family: 'Questrial', sans-serif;
+
+}
+
+
+
+img {
+    border-radius: 50%;
+    
+  }
+
+
+
+section {
+    
+    background-color: #5b8f8f;
+    width: 300px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+}
+
+div.ex1 {
+    border-top: #5b8f8f ;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color:#ebc9bb;
+}
+
+#Presentacion {
+    color: black;
+    font-family: 'Inter', sans-serif;
+    text-align: justify;
+}
+
+.column {
+    float: left;
+  }
+  
+  .left {
+    width: 25%;
+  }
+  
+  .right {
+    width: 75%;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
+  ul{
+
+    font-family: 'Questrial', sans-serif;
+
+  }
+
+  #datos{
+    margin-top: 300px;
+  }
